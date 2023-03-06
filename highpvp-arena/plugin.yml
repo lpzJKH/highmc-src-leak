@@ -1,5 +1,0 @@
-name: HighPvP
-version: 1.0
-author: yandv
-main: net.highmc.bukkit.pvp.arena.GameMain
-softdepend: [ProtocolLib]
